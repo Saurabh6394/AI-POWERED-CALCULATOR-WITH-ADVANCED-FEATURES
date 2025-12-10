@@ -1,4 +1,6 @@
 🚀 **Key Features**
+
+
 🧠 *AI-Driven Input Understanding*
 
 Natural Language Interpretation: Users can type sentences like “What is the derivative of x² + 3x?” and the system intelligently converts them into symbolic math for evaluation.
