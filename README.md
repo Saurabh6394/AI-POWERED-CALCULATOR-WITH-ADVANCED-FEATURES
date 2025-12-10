@@ -3,13 +3,16 @@
 
 🧠 *AI-Driven Input Understanding*
 
+
 Natural Language Interpretation: Users can type sentences like “What is the derivative of x² + 3x?” and the system intelligently converts them into symbolic math for evaluation.
 
 Drawing Input Recognition: Handwritten expressions drawn on a canvas are captured, converted to an image, and processed using Google Vision OCR to extract the equation.
 
 Image Upload Support: Snap a photo of handwritten notes or printed equations — the backend converts it into solvable math.
 
-📐 Advanced Mathematical Capabilities
+
+
+📐 *Advanced Mathematical Capabilities*
 
 Algebraic simplification
 
@@ -21,7 +24,9 @@ High-precision numerical evaluation
 
 Step-by-step symbolic transformations (via SymPy)
 
-⚙️ Technology Stack
+
+
+⚙️ *Technology Stack*
 
 Frontend: React + Vite, Canvas drawing system, multi-input UI
 
@@ -31,7 +36,9 @@ AI/OCR: Google Cloud Vision
 
 Communication: REST API (JSON)
 
-🎯 Ideal Use Cases
+
+
+🎯 *Ideal Use Cases*
 
 Students solving homework
 
@@ -39,7 +46,9 @@ Engineers needing symbolic manipulations
 
 Anyone who wants a flexible, powerful calculator interface
 
-🌐 Future Enhancements
+
+
+🌐 *Future Enhancements*
 
 Voice input
 
